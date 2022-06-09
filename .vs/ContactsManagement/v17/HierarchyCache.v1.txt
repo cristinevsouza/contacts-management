@@ -1,0 +1,660 @@
+﻿++Solução 'ContactsManagement' ‎(1 de 1 projeto)
+i:{00000000-0000-0000-0000-000000000000}:ContactsManagement.sln
+++ContactsManagement
+i:{00000000-0000-0000-0000-000000000000}:ContactsManagement
+++Connected Services 
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:>552
+++Dependências
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:>551
+++Importações
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:>202
+++Properties
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\properties\
+++launchSettings.json
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\properties\launchsettings.json
+++wwwroot
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\
+++css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\css\
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\
+++site.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\css\site.css
+++js
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\js\
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\js\
+++site.js
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\js\site.js
+++lib
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\
+++bootstrap
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\
+++jquery
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\jquery\
+++jquery-validation
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\jquery-validation-unobtrusive\
+++favicon.ico
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\favicon.ico
+++bin
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\bin\
+++Controllers
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\controllers\
+++ContactController.cs
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\controllers\contactcontroller.cs
+++HomeController.cs
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\controllers\homecontroller.cs
+++Models
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\models\
+++obj
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\
+++Views
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\views\
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\scopedcss\views\
+++Contact
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\views\contact\
+++ConfirmDelete.cshtml
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\views\contact\confirmdelete.cshtml
+++Create.cshtml
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\views\contact\create.cshtml
+++Edit.cshtml
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\views\contact\edit.cshtml
+++Index.cshtml
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\views\contact\index.cshtml
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\views\home\index.cshtml
+++Home
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\views\home\
+++Privacy.cshtml
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\views\home\privacy.cshtml
+++Shared
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\views\shared\
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\scopedcss\views\shared\
+++_Layout.cshtml
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\views\_viewstart.cshtml
+++appsettings.json
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\appsettings.json
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\bin\debug\net6.0\appsettings.json
+++appsettings.Development.json
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\appsettings.development.json
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\bin\debug\net6.0\appsettings.development.json
+++Program.cs
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\program.cs
+++Nenhuma dependência de serviço descoberta
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:>553
+++Analisadores
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:analisadores
+++Estruturas
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:estruturas
+++Sdk.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++dist
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\jquery\dist\
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\jquery\license.txt
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++Debug
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\bin\debug\
+++ErrorViewModel.cs
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\models\errorviewmodel.cs
+++ContactsControl.csproj.nuget.dgspec.json
+++ContactsControl.csproj.nuget.g.props
+++ContactsControl.csproj.nuget.g.targets
+++ContactsManagement.csproj.nuget.dgspec.json
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\contactsmanagement.csproj.nuget.dgspec.json
+++ContactsManagement.csproj.nuget.g.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\contactsmanagement.csproj.nuget.g.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\contactsmanagement.csproj.nuget.g.props
+++ContactsManagement.csproj.nuget.g.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\contactsmanagement.csproj.nuget.g.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\contactsmanagement.csproj.nuget.g.targets
+++project.assets.json
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\project.assets.json
+++project.nuget.cache
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\staticwebassets.pack.sentinel
+++_Layout.cshtml.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\views\shared\_layout.cshtml.css
+++Microsoft.AspNetCore.Analyzers
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\microsoft.netcore.app
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++jquery.js
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++net6.0
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\bin\debug\net6.0\
+++Microsoft.Common.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++bootstrap.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++cs
+++de
+++es
+++fr
+++it
+++ja
+++ko
+++pl
+++pt-BR
+++ru
+++tr
+++zh-Hans
+++zh-Hant
+++ContactsControl.deps.json
+++ContactsControl.dll
+++ContactsControl.exe
+++ContactsControl.pdb
+++ContactsControl.runtimeconfig.json
+++ContactsControl.staticwebassets.runtime.json
+++ContactsManagement.deps.json
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\bin\debug\net6.0\contactsmanagement.deps.json
+++ContactsManagement.dll
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\contactsmanagement.dll
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\refint\contactsmanagement.dll
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\ref\contactsmanagement.dll
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\bin\debug\net6.0\contactsmanagement.dll
+++ContactsManagement.exe
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\bin\debug\net6.0\contactsmanagement.exe
+++ContactsManagement.pdb
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\contactsmanagement.pdb
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\bin\debug\net6.0\contactsmanagement.pdb
+++ContactsManagement.runtimeconfig.json
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\bin\debug\net6.0\contactsmanagement.runtimeconfig.json
+++ContactsManagement.staticwebassets.runtime.json
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\bin\debug\net6.0\contactsmanagement.staticwebassets.runtime.json
+++ref
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\ref\
+++refint
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\refint\
+++scopedcss
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\scopedcss\
+++staticwebassets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\staticwebassets\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++apphost.exe
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\apphost.exe
+++ContactsControl.AssemblyInfo.cs
+++ContactsControl.AssemblyInfoInputs.cache
+++ContactsControl.assets.cache
+++ContactsControl.csproj.AssemblyReference.cache
+++ContactsControl.csproj.BuildWithSkipAnalyzers
+++ContactsControl.csproj.CopyComplete
+++ContactsControl.csproj.CoreCompileInputs.cache
+++ContactsControl.csproj.FileListAbsolute.txt
+++ContactsControl.GeneratedMSBuildEditorConfig.editorconfig
+++ContactsControl.genruntimeconfig.cache
+++ContactsControl.GlobalUsings.g.cs
+++ContactsControl.MvcApplicationPartsAssemblyInfo.cache
+++ContactsControl.MvcApplicationPartsAssemblyInfo.cs
+++ContactsControl.RazorAssemblyInfo.cache
+++ContactsControl.RazorAssemblyInfo.cs
+++ContactsManagement.AssemblyInfo.cs
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\contactsmanagement.assemblyinfo.cs
+++ContactsManagement.AssemblyInfoInputs.cache
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\contactsmanagement.assemblyinfoinputs.cache
+++ContactsManagement.assets.cache
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\contactsmanagement.assets.cache
+++ContactsManagement.csproj.AssemblyReference.cache
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\contactsmanagement.csproj.assemblyreference.cache
+++ContactsManagement.csproj.BuildWithSkipAnalyzers
+++ContactsManagement.csproj.CoreCompileInputs.cache
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\contactsmanagement.csproj.corecompileinputs.cache
+++ContactsManagement.csproj.FileListAbsolute.txt
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\contactsmanagement.csproj.filelistabsolute.txt
+++ContactsManagement.GeneratedMSBuildEditorConfig.editorconfig
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\contactsmanagement.generatedmsbuildeditorconfig.editorconfig
+++ContactsManagement.genruntimeconfig.cache
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\contactsmanagement.genruntimeconfig.cache
+++ContactsManagement.GlobalUsings.g.cs
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\contactsmanagement.globalusings.g.cs
+++ContactsManagement.MvcApplicationPartsAssemblyInfo.cache
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\contactsmanagement.mvcapplicationpartsassemblyinfo.cache
+++ContactsManagement.RazorAssemblyInfo.cache
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\contactsmanagement.razorassemblyinfo.cache
+++ContactsManagement.RazorAssemblyInfo.cs
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\contactsmanagement.razorassemblyinfo.cs
+++project.razor.json
+++staticwebassets.build.json
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\staticwebassets.build.json
+++staticwebassets.development.json
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\staticwebassets.development.json
+++Microsoft.NuGet.ImportBefore.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.sourcegenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.jsmodules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++bootstrap.css.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\jquery\dist\jquery.min.map
+++bundle
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\scopedcss\bundle\
+++projectbundle
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\scopedcss\projectbundle\
+++Microsoft.NuGet.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++bootstrap.min.css.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++ContactsControl.styles.css
+++ContactsManagement.styles.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\scopedcss\bundle\contactsmanagement.styles.css
+++ContactsControl.bundle.scp.css
+++ContactsManagement.bundle.scp.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\scopedcss\projectbundle\contactsmanagement.bundle.scp.css
+++Microsoft.NET.ILLink.Tasks.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++bootstrap.rtl.min.css.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++_Layout.cshtml.rz.scp.css
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\obj\debug\net6.0\scopedcss\views\shared\_layout.cshtml.rz.scp.css
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.Cpp.VCLibs120Universal.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.cpp.vclibs120universal.targets
+++Microsoft.Net.CoreRuntime.ImportBefore.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.net.coreruntime.importbefore.targets
+++Microsoft.NetNative.ImportBefore.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.netnative.importbefore.targets
+++ContactsManagement.csproj.user
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:d:\projetos\contactscontrol\contactscontrol\contactsmanagement.csproj.user
+++Microsoft.NET.props
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.DesktopBridge.ImportAfter.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.desktopbridge.importafter.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.Net.CoreRuntime.ImportAfter.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.coreruntime.importafter.targets
+++Microsoft.NetNative.ImportAfter.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.netnative.importafter.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.ImportAfter.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.visualstudio.azure.fabric.serviceproject.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Xamarin.Common.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\xamarin.common.targets
+++Microsoft.DesktopBridge.Common.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\desktopbridge\microsoft.desktopbridge.common.targets
+++Microsoft.Docker.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\service fabric tools\microsoft.visualstudio.azure.fabric.serviceproject.targets
+++Microsoft.Web.IISSupport.targets
+i:{efaf0d86-9cd4-499c-b8ec-f4d4b699f07a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
