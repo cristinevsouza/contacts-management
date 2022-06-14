@@ -39,22 +39,66 @@ namespace ContactsManagement.Controllers
         [HttpPost]
         public IActionResult Create(ContactModel contact)
         {
-            _contactRepository.Create(contact);
-            return RedirectToAction("Index");
+            try
+            {
+                if (ModelState.IsValid)
+                {
+                    _contactRepository.Create(contact);
+                    TempData["SuccessMessage"] = "Contact successfully added.";
+                    return RedirectToAction("Index");
+                }
+
+                return View(contact);
+            }
+            catch (System.Exception error)
+            {
+                TempData["ErrorMessage"] = $"Oops, we were unable to add your contact, please try again. {error.Message}";
+                return RedirectToAction("Index");   
+            }    
         }
 
         [HttpPost]
         public IActionResult Edit(ContactModel contact)
         {
-            _contactRepository.Update(contact);
-            return RedirectToAction("Index");
+            try
+            {
+                if (ModelState.IsValid)
+                {
+                    _contactRepository.Update(contact);
+                    TempData["SuccessMessage"] = "Contact successfully edited.";
+                    return RedirectToAction("Index");
+                }
+                return View(contact);
+            }
+            catch (System.Exception error)
+            {
+                TempData["ErrorMessage"] = $"Oops, we were unable to edit your contact, please try again. {error.Message}";
+                return RedirectToAction("Index");
+            }
         }
 
         public IActionResult Delete(long id)
         {
-            ContactModel contact = _contactRepository.GetContact(id);
-            _contactRepository.Delete(id);
-            return RedirectToAction("Index");
+            try
+            {
+                bool deleted = _contactRepository.Delete(id);
+
+                if (deleted)
+                {
+                    TempData["SuccessMessage"] = "Contact successfully deleted!";
+                }
+                else
+                {
+                    TempData["ErrorMessage"] = $"Oops, we were unable to delete your contact!";
+                }
+
+                return RedirectToAction("Index");
+            }
+            catch (System.Exception error)
+            {
+                TempData["ErrorMessage"] = $"Oops, we were unable to delete your contact, please try again. {error.Message}";
+                return RedirectToAction("Index");
+            }
         }
     }
 }
