@@ -24,20 +24,36 @@ namespace ContactsManagement.Controllers
             return View();
         }
 
-        public IActionResult Edit()
+        public IActionResult Edit(long id)
         {
-            return View();
+            ContactModel contact = _contactRepository.GetContact(id);
+            return View(contact);
         }
 
-        public IActionResult ConfirmDelete()
+        public IActionResult ConfirmDelete(long id)
         {
-            return View();
+            ContactModel contact = _contactRepository.GetContact(id);
+            return View(contact);
         }
 
         [HttpPost]
         public IActionResult Create(ContactModel contact)
         {
             _contactRepository.Create(contact);
+            return RedirectToAction("Index");
+        }
+
+        [HttpPost]
+        public IActionResult Edit(ContactModel contact)
+        {
+            _contactRepository.Update(contact);
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult Delete(long id)
+        {
+            ContactModel contact = _contactRepository.GetContact(id);
+            _contactRepository.Delete(id);
             return RedirectToAction("Index");
         }
     }

@@ -13,6 +13,11 @@ namespace ContactsManagement.Repository
             _contactDBContext = contactDBContext;
         }
 
+        public ContactModel GetContact(long id)
+        {
+            return _contactDBContext.Contacts.FirstOrDefault(x => x.Id == id);  
+        }
+
         public List<ContactModel> GetAll()
         {
             return _contactDBContext.Contacts.ToList();
@@ -25,9 +30,32 @@ namespace ContactsManagement.Repository
             return contact;
         }
 
-        public ContactModel Edit(ContactModel contact)
+        public ContactModel Update(ContactModel contact)
         {
-            throw new NotImplementedException();
+            ContactModel contactDB = GetContact(contact.Id);
+
+            if (contactDB == null) throw new System.Exception("There was an error editing the contact");
+
+            contactDB.Name = contact.Name;
+            contactDB.Email = contact.Email;
+            contactDB.PhoneNumber = contact.PhoneNumber;
+
+            _contactDBContext.Contacts.Update(contactDB);
+            _contactDBContext.SaveChanges();
+
+            return contactDB;
+        }
+
+        public bool Delete(long id)
+        {
+            ContactModel contactDB = GetContact(id);
+
+            if (contactDB == null) throw new System.Exception("There was an error deleting the contact");
+
+            _contactDBContext.Contacts.Remove(contactDB);
+            _contactDBContext.SaveChanges();
+
+            return true;
         }
     }
 }

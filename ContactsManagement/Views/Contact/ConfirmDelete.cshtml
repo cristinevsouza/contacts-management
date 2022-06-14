@@ -1,14 +1,15 @@
-﻿@{
+﻿@model ContactModel
+@{
     ViewData["Title"] = "Confirm Delete";
 }
 
 <div class="text-center">
-    <h3>Would you really like to delete the contact?</h3>
+    <h3>Would you really like to delete the contact (@Model.Name)?</h3>
 </div>
 
 <div class="mb-2 ">
     <a class="btn btn-primary col-12" role="button" asp-controller="Contact" asp-action="Index">Cancel removal</a>
 </div>
 <div class="mb-2 ">
-<a class="btn btn-danger col-12" role="button"asp-controller="Contact" asp-action="Delete">Confirm removal</a>
+<a class="btn btn-danger col-12" role="button"asp-controller="Contact" asp-route-id="@Model.Id" asp-action="Delete">Confirm removal</a>
 </div>
