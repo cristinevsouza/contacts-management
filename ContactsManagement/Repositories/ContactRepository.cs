@@ -13,9 +13,10 @@ namespace ContactsManagement.Repository
             _contactDBContext = contactDBContext;
         }
 
-        public ContactModel GetContact(long id)
+        public ContactModel? GetContact(long id)
         {
-            return _contactDBContext.Contacts.FirstOrDefault(x => x.Id == id);  
+            return _contactDBContext.Contacts.FirstOrDefault(x => x.Id == id);
+            
         }
 
         public List<ContactModel> GetAll()

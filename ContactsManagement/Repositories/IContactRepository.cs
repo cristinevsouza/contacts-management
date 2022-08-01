@@ -4,7 +4,7 @@ namespace ContactsManagement.Repositories
 {
     public interface IContactRepository
     {
-        ContactModel GetContact(long id); 
+        ContactModel? GetContact(long id); 
 
         List<ContactModel> GetAll();
 

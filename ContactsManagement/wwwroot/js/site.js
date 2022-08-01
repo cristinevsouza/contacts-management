@@ -3,6 +3,10 @@
 
 // Write your JavaScript code.
 
+$(document).ready(function () {
+    $("#contacts-table").DataTable();
+});
+
 $('.close-alert').click(function () {
     $('.alert').hide('hide');
 });

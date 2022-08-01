@@ -30,13 +30,14 @@
 
     <h1 class="display-4">Contact List</h1>
     <br />
-    <table class="table">
+    <table class="table" id="contacts-table">
         <thead>
             <tr>
                 <th scope="col">#</th>
                 <th scope="col">Name</th>
                 <th scope="col">Email</th>
                 <th scope="col">Mobile</th>
+                <th scope="col"></th>
             </tr>
         </thead>
         <tbody>
@@ -44,12 +45,12 @@
             {
                 foreach (var contact in Model)
                 {
-                    <tr>
+                    <tr align="left">
                         <th scope="row">@contact.Id</th>
                         <td>@contact.Name</td>
                         <td>@contact.Email</td>
                         <td>@contact.PhoneNumber</td>
-                        <td>
+                        <td align="right">
                             <div class="btn-group" role="group">
                                 <a role="button" class="btn btn-primary" asp-route-id="@contact.Id" asp-controller="Contact" asp-action="Edit">Edit</a>
                                 <a role="button" class="btn btn-danger" asp-route-id="@contact.Id" asp-controller="Contact" asp-action="ConfirmDelete">Delete</a>

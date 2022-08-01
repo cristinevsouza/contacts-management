@@ -10,6 +10,9 @@ namespace ContactsManagement.Data
 
         }
 
-        public DbSet<ContactModel> Contacts { get; set; }
+        //public DbSet<ContactModel> Contacts { get; set; }
+
+        public DbSet<ContactModel> Contacts => Set<ContactModel>();
+
     }
 }

@@ -8,12 +8,12 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddEntityFrameworkSqlServer()
+builder.Services
     .AddDbContext<ContactsDBContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DataBase")));
 
 builder.Services.AddScoped<IContactRepository, ContactRepository>();
 
-var app = builder.Build();
+WebApplication? app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
