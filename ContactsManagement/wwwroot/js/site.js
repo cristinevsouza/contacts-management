@@ -5,6 +5,7 @@
 
 $(document).ready(function () {
     $("#contacts-table").DataTable();
+    $("#users-table").DataTable();
 });
 
 $('.close-alert').click(function () {

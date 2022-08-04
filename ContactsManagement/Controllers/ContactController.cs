@@ -26,13 +26,13 @@ namespace ContactsManagement.Controllers
 
         public IActionResult Edit(long id)
         {
-            ContactModel contact = _contactRepository.GetContact(id);
+            ContactModel contact = _contactRepository.GetContact(id)!;
             return View(contact);
         }
 
         public IActionResult ConfirmDelete(long id)
         {
-            ContactModel contact = _contactRepository.GetContact(id);
+            ContactModel contact = _contactRepository.GetContact(id)!;
             return View(contact);
         }
 

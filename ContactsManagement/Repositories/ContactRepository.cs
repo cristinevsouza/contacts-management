@@ -1,10 +1,9 @@
 ﻿using ContactsManagement.Data;
 using ContactsManagement.Models;
-using ContactsManagement.Repositories;
 
-namespace ContactsManagement.Repository
+namespace ContactsManagement.Repositories
 {
-    public class ContactRepository : IContactRepository
+	public class ContactRepository : IContactRepository
     {
         private readonly ContactsDBContext _contactDBContext;
 
@@ -13,11 +12,11 @@ namespace ContactsManagement.Repository
             _contactDBContext = contactDBContext;
         }
 
-        public ContactModel? GetContact(long id)
+        public ContactModel GetContact(long id)
         {
-            return _contactDBContext.Contacts.FirstOrDefault(x => x.Id == id);
-            
-        }
+            return _contactDBContext.Contacts.FirstOrDefault(x => x.Id == id)!;
+
+		}
 
         public List<ContactModel> GetAll()
         {

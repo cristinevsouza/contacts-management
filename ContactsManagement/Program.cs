@@ -1,6 +1,5 @@
 using ContactsManagement.Data;
 using ContactsManagement.Repositories;
-using ContactsManagement.Repository;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +11,7 @@ builder.Services
     .AddDbContext<ContactsDBContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DataBase")));
 
 builder.Services.AddScoped<IContactRepository, ContactRepository>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
 
 WebApplication? app = builder.Build();
 
