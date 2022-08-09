@@ -58,6 +58,38 @@ namespace ContactsManagement.Controllers
 			}
 		}
 
+		[HttpPost]
+		public IActionResult Edit(UserWithoutPasswordModel userWP)
+		{
+			try
+			{
+				UserModel user = null!;
+
+				if (ModelState.IsValid)
+				{
+					user = new UserModel()
+					{
+						Id = userWP.Id,
+						Name = userWP.Name,
+						Login = userWP.Login,
+						Email = userWP.Email,
+						UserType = userWP.UserType
+					};
+
+					user = _userRepository.Update(user);
+					TempData["SuccessMessage"] = "User successfully edited.";
+					return RedirectToAction("Index");
+				}
+
+				return View(user);
+			}
+			catch (Exception error)
+			{
+				TempData["ErrorMessage"] = $"Oops, we were unable to edit your user, please try again. {error.Message}";
+				return RedirectToAction("Index");
+			}
+		}
+
 		[HttpPost, ActionName("Delete")]
 		public IActionResult Delete(long id)
 		{

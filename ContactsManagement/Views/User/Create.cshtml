@@ -2,7 +2,7 @@
 @model UserModel
 
 @{
-    ViewData["Title"] = "Add user";
+    ViewData["Title"] = "Add User";
 }
 
 <div class="text-center">
@@ -12,25 +12,25 @@
 
 <form asp-controller="User" asp-action="Create" method="post">
 
-    <div class="form-group">
+    <div class="form-group mb-3">
         <label for="name" class="form-label">Name</label>
         <input type="text" asp-for="Name" class="form-control" placeholder="Enter user name">
         @Html.ValidationMessageFor(x => x.Name)
     </div>
 
-    <div class="form-group">
+    <div class="mb-3">
         <label for="email" class="form-label">E-mail</label>
         <input type="text" asp-for="Email" class="form-control" placeholder="Enter user e-mail">
         @Html.ValidationMessageFor(x => x.Email)
     </div>
 
-    <div class="form-group">
+    <div class="mb-3">
         <label for="login" class="form-label">Login</label>
         <input type="text" asp-for="Login" class="form-control" placeholder="Enter user login">
         @Html.ValidationMessageFor(x => x.Login)
     </div>
 
-    <div class="form-group">
+    <div class="mb-3">
         <label for="userType" class="form-label">User Type</label>
         <select asp-for="UserType" class="form-control">
             <option value="">Select</option>
@@ -39,13 +39,18 @@
         </select>
     </div>
 
-    <div class="form-group">
+    <div class="mb-3">
         <label for="password" class="form-label">Password</label>
         <input type="password" asp-for="Password" class="form-control" placeholder="Enter user password">
         @Html.ValidationMessageFor(x => x.Password)
     </div>
 
-    <button type="submit" class="btn btn-primary btn-block">Add</button>
-    <a class="btn btn-secondary btn-block" asp-action="Index" asp-controller="Contact" role="button">Back</a>
+    <div class="mb-2">
+        <button type="submit" class="btn btn-primary col-12">Save</button>
+    </div>
+
+    <div class="mb-4">
+        <a class="btn btn-secondary col-12" asp-controller="User" asp-action="Index" role="button">Back</a>
+    </div>
 
 </form>

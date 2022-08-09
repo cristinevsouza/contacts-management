@@ -13,23 +13,6 @@ namespace ContactsManagement.Repositories
 			_context = context;
 		}
 
-		public UserModel Create(UserModel user)
-		{
-			user.CreatedAt = DateTime.Now;
-			_context.Users.Add(user);
-			_context.SaveChanges();
-			return user;
-		}
-
-		public bool Delete(long id)
-		{
-			UserModel UserDB = GetUser(id);
-			if (UserDB == null) throw new Exception("There was an error deleting the user");
-			_context.Users.Remove(UserDB);
-			_context.SaveChanges();
-			return true;
-		}
-
 		public List<UserModel> GetAll()
 		{
 			return _context.Users.ToList();
@@ -38,6 +21,20 @@ namespace ContactsManagement.Repositories
 		public UserModel GetUser(long id)
 		{
 			return _context.Users.FirstOrDefault(x => x.Id == id)!;
+		}
+
+		public UserModel FindByLogin(string login)
+		{
+			return _context.Users.FirstOrDefault(x => x.Login!.ToUpper() == login.ToUpper())!;
+
+		}
+
+		public UserModel Create(UserModel user)
+		{
+			user.CreatedAt = DateTime.Now;
+			_context.Users.Add(user);
+			_context.SaveChanges();
+			return user;
 		}
 
 		public UserModel Update(UserModel user)
@@ -54,5 +51,13 @@ namespace ContactsManagement.Repositories
 			return userDB;
 		}
 
+		public bool Delete(long id)
+		{
+			UserModel UserDB = GetUser(id);
+			if (UserDB == null) throw new Exception("There was an error deleting the user");
+			_context.Users.Remove(UserDB);
+			_context.SaveChanges();
+			return true;
+		}
 	}
 }

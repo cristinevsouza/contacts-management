@@ -27,6 +27,9 @@ namespace ContactsManagement.Models
         public DateTime? UpdatedAt { get; set; }
 
 
-		
+		public bool PasswordValidator(string? password)
+		{
+			return Password == password;
+		}
 	}
 }

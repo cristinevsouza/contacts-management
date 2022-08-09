@@ -39,6 +39,7 @@
                 <th scope="col">Name</th>
                 <th scope="col">Login</th>
                 <th scope="col">Email</th>
+                <th scope="col">User Type</th>
                 <th scope="col">Register Date</th>
                 <th scope="col"></th>
             </tr>
@@ -53,6 +54,7 @@
                         <td>@user.Name</td>
                         <td>@user.Login</td>
                         <td>@user.Email</td>
+                        <td>@(user.UserType == ContactsManagement.Enums.UserType.Admin ? "Administrator" : "Regular")</td>
                         <td>@user.CreatedAt</td>
                         <td align="right">
                             <div class="btn-group" role="group">

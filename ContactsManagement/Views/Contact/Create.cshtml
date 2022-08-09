@@ -3,30 +3,33 @@
     ViewData["Title"] = "Add Contact";
 }
 <div class="text-center">
-    <h1 class="display-4">Add Contact</h1>   
+    <h1 class="display-4">Add Contact</h1>
 </div>
 
 <form asp-controller="Contact" asp-action="Create" method="post">
 
-  <div class="mb-3">
-    <label for="name" class="form-label">Name</label>
-    <input type="text" asp-for="Name" class="form-control" placeholder="Enter contact name">
-    @Html.ValidationMessageFor(x => x.Name)
-  </div>
-  <div class="mb-3">
-    <label for="email" class="form-label">Email</label>
-    <input type="text" asp-for="Email" class="form-control" placeholder="Enter contact email">
-    @Html.ValidationMessageFor(x => x.Email)
-  </div>
-  <div class="mb-3">
-    <label for="mobile" class="form-label">Mobile</label>
-    <input type="text" asp-for="PhoneNumber" class="form-control" placeholder="Enter contact mobile">
-    @Html.ValidationMessageFor(x => x.PhoneNumber)
-  </div>
-  <div class="mb-2 ">
-    <button type="submit" class="btn btn-primary col-12">Save</button>
-  </div>
-   <div class="mb-2 ">
-  <a class="btn btn-secondary col-12" asp-controller="Contact" asp-action="Index" role="button">Back</a>
-  </div>
+    <div class="mb-3">
+        <label for="name" class="form-label">Name</label>
+        <input type="text" asp-for="Name" class="form-control" placeholder="Enter contact name">
+        @Html.ValidationMessageFor(x => x.Name)
+    </div>
+    <div class="mb-3">
+        <label for="email" class="form-label">Email</label>
+        <input type="text" asp-for="Email" class="form-control" placeholder="Enter contact email">
+        @Html.ValidationMessageFor(x => x.Email)
+    </div>
+    <div class="mb-3">
+        <label for="mobile" class="form-label">Mobile</label>
+        <input type="text" asp-for="PhoneNumber" class="form-control" placeholder="Enter contact mobile">
+        @Html.ValidationMessageFor(x => x.PhoneNumber)
+    </div>
+
+    <div class="mb-2">
+        <button type="submit" class="btn btn-primary col-12">Save</button>
+    </div>
+
+    <div class="mb-4">
+        <a class="btn btn-secondary col-12" asp-controller="Contact" asp-action="Index" role="button">Back</a>
+    </div>
+
 </form>
