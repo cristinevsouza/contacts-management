@@ -1,3 +1,3 @@
 # contacts-management
 
-ASPNET Core MVC Web App 
+ASP.NET Core MVC Web App 
